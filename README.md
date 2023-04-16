@@ -6,7 +6,7 @@
 
 
 - 🤔 Estudando Aspx, Formulários do Windows, C++ para arduino e Java em Android
-- 💬 Estudante de Programação no 2°Ano do Ensino Médio
+- 💬 Estudante de Programação no 3°Ano do Ensino Médio
 
 <div align="center">
   <a href="https://github.com/LucasRoseno">
